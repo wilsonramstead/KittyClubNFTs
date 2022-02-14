@@ -1,14 +1,22 @@
 .container-fluid {
   min-height: 90vh;
-  border-radius: 25px;
-  border: 5px solid white;
+  // border-radius: 25px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
   background: rgba($color: #969696, $alpha: 0.5);
   overflow: auto;
   word-wrap: break-word;
+  padding-bottom: 50px;
 }
 
 @media screen and (max-width: 560px) {
   .container-fluid {
-    max-width: 90%;
+    max-width: 100%;
   }
 }
+
+// @media screen and (min-width: 561px) {
+//   .container-fluid {
+//     width: 90%;
+//   }
+// }
