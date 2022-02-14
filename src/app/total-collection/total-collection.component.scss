@@ -1,0 +1,32 @@
+.row {
+  margin-bottom: 3rem;
+}
+
+// .card {
+// &:hover {
+//   border: 5px solid rgb(54, 54, 54);
+//   background: #8a8a8a;
+//   padding: 5px;
+// }
+// }
+
+.btn {
+  width: 100%;
+}
+
+@media screen and (max-width: 560px) {
+  .desktopCollection {
+    display: none;
+  }
+  .card {
+    width: 15rem;
+  }
+}
+@media screen and (min-width: 561px) {
+  .mobileCollection {
+    display: none;
+  }
+  .card {
+    width: 18rem;
+  }
+}
