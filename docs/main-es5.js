@@ -316,7 +316,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }]
     }, {
       path: '**',
-      redirectTo: '/'
+      redirectTo: '/home'
     }];
 
     var AppRoutingModule = /*#__PURE__*/_createClass(function AppRoutingModule() {

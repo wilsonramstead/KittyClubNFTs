@@ -64,7 +64,7 @@ const routes: Routes = [
     { path: 'kitty25', component: Kitty25Component },
     { path: 'kitty26', component: Kitty26Component },
   ]},
-  { path: '**', redirectTo: '/' },
+  { path: '**', redirectTo: '/home' },
 ];
 
 @NgModule({

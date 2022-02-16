@@ -124,7 +124,7 @@ const routes = [
             { path: 'kitty25', component: _kitty25_kitty25_component__WEBPACK_IMPORTED_MODULE_27__["Kitty25Component"] },
             { path: 'kitty26', component: _kitty26_kitty26_component__WEBPACK_IMPORTED_MODULE_28__["Kitty26Component"] },
         ] },
-    { path: '**', redirectTo: '/' },
+    { path: '**', redirectTo: '/home' },
 ];
 class AppRoutingModule {
 }
