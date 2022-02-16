@@ -34,7 +34,7 @@ import { Kitty26Component } from './kitty26/kitty26.component';
 
 
 const routes: Routes = [
-  { path: 'home', component: TotalCollectionComponent },
+  { path: '', component: TotalCollectionComponent },
   { path: 'nfts', children: [
     // { path: '', pathMatch: 'full', component: ListComponent,},
     { path: 'kitty1', component: Kitty1Component },
@@ -64,7 +64,7 @@ const routes: Routes = [
     { path: 'kitty25', component: Kitty25Component },
     { path: 'kitty26', component: Kitty26Component },
   ]},
-  { path: '**', redirectTo: '/home' },
+  { path: '**', redirectTo: '/' },
 ];
 
 @NgModule({

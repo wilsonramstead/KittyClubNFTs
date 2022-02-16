@@ -94,7 +94,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: 'home', component: _total_collection_total_collection_component__WEBPACK_IMPORTED_MODULE_2__["TotalCollectionComponent"] },
+    { path: '', component: _total_collection_total_collection_component__WEBPACK_IMPORTED_MODULE_2__["TotalCollectionComponent"] },
     { path: 'nfts', children: [
             // { path: '', pathMatch: 'full', component: ListComponent,},
             { path: 'kitty1', component: _kitty1_kitty1_component__WEBPACK_IMPORTED_MODULE_3__["Kitty1Component"] },
@@ -124,7 +124,7 @@ const routes = [
             { path: 'kitty25', component: _kitty25_kitty25_component__WEBPACK_IMPORTED_MODULE_27__["Kitty25Component"] },
             { path: 'kitty26', component: _kitty26_kitty26_component__WEBPACK_IMPORTED_MODULE_28__["Kitty26Component"] },
         ] },
-    { path: '**', redirectTo: '/home' },
+    { path: '**', redirectTo: '/' },
 ];
 class AppRoutingModule {
 }
