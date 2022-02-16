@@ -230,7 +230,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     "./src/app/kitty26/kitty26.component.ts");
 
     var routes = [{
-      path: '',
+      path: 'home',
       component: _total_collection_total_collection_component__WEBPACK_IMPORTED_MODULE_2__["TotalCollectionComponent"]
     }, {
       path: 'nfts',
@@ -316,7 +316,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }]
     }, {
       path: '**',
-      redirectTo: '/'
+      redirectTo: '/home'
     }];
 
     var AppRoutingModule = /*#__PURE__*/_createClass(function AppRoutingModule() {
