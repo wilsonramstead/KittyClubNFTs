@@ -124,7 +124,7 @@ const routes = [
             { path: 'kitty25', component: _kitty25_kitty25_component__WEBPACK_IMPORTED_MODULE_27__["Kitty25Component"] },
             { path: 'kitty26', component: _kitty26_kitty26_component__WEBPACK_IMPORTED_MODULE_28__["Kitty26Component"] },
         ] },
-    { path: '**', redirectTo: '/home' },
+    { path: '**', redirectTo: '/' },
 ];
 class AppRoutingModule {
 }
@@ -363,14 +363,14 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty1Component {
     constructor() { }
     ngOnInit() {
     }
 }
 Kitty1Component.ɵfac = function Kitty1Component_Factory(t) { return new (t || Kitty1Component)(); };
-Kitty1Component.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Kitty1Component, selectors: [["app-kitty1"]], decls: 31, vars: 2, consts: [[1, "btn", "btn-success", 3, "routerLink"], [1, "container"], [1, "left"], ["src", "https://lh3.googleusercontent.com/2Henk2N4t-6VI3so2I7AfiEnW_YmeJ0O4vIG6joHIaqY6CECPLUKyNheXgSzt2aYlTAbKPhfotninyg_FAbmSGXsblBiKFdzG3f15470vbvLqYZPXvzdEX2mOuSINA0_wvDr_l1EJQ=w2400", "alt", "Kitty1 NFT", 1, "nftImage"], [1, "right"], ["href", "https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963"], ["target", "_blank", "href", "https://lh3.googleusercontent.com/2Henk2N4t-6VI3so2I7AfiEnW_YmeJ0O4vIG6joHIaqY6CECPLUKyNheXgSzt2aYlTAbKPhfotninyg_FAbmSGXsblBiKFdzG3f15470vbvLqYZPXvzdEX2mOuSINA0_wvDr_l1EJQ=w2400"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219824162838675457", 1, "btn", "btn-primary"]], template: function Kitty1Component_Template(rf, ctx) { if (rf & 1) {
+Kitty1Component.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Kitty1Component, selectors: [["app-kitty1"]], decls: 31, vars: 2, consts: [[1, "btn", "btn-success", 3, "routerLink"], [1, "container"], [1, "left"], ["src", "https://lh3.googleusercontent.com/9ShmIQZHmlG3DdMNHV8OdHkVNxp9TdGWlXtVHMTyz5lon90QB3MSHhKKQA8HsOyEwSiR6vJu4qNNuYvxaK1mU2ey5gLY95qBOXMgtq08rgn9jB7CffOIpgcSCSMGx0K0lH3J6eYV1g=w2400", "alt", "Kitty1 NFT", 1, "nftImage"], [1, "right"], ["href", "https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963"], ["target", "_blank", "href", "https://lh3.googleusercontent.com/9ShmIQZHmlG3DdMNHV8OdHkVNxp9TdGWlXtVHMTyz5lon90QB3MSHhKKQA8HsOyEwSiR6vJu4qNNuYvxaK1mU2ey5gLY95qBOXMgtq08rgn9jB7CffOIpgcSCSMGx0K0lH3J6eYV1g=w2400"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219824162838675457", 1, "btn", "btn-primary"]], template: function Kitty1Component_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "a", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Back");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -449,7 +449,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty10Component {
     constructor() { }
     ngOnInit() {
@@ -535,7 +535,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty11Component {
     constructor() { }
     ngOnInit() {
@@ -621,7 +621,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty12Component {
     constructor() { }
     ngOnInit() {
@@ -707,7 +707,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty13Component {
     constructor() { }
     ngOnInit() {
@@ -793,7 +793,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty14Component {
     constructor() { }
     ngOnInit() {
@@ -879,7 +879,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty15Component {
     constructor() { }
     ngOnInit() {
@@ -965,7 +965,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty16Component {
     constructor() { }
     ngOnInit() {
@@ -1051,7 +1051,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty17Component {
     constructor() { }
     ngOnInit() {
@@ -1137,7 +1137,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty18Component {
     constructor() { }
     ngOnInit() {
@@ -1223,7 +1223,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty19Component {
     constructor() { }
     ngOnInit() {
@@ -1309,14 +1309,14 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty2Component {
     constructor() { }
     ngOnInit() {
     }
 }
 Kitty2Component.ɵfac = function Kitty2Component_Factory(t) { return new (t || Kitty2Component)(); };
-Kitty2Component.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Kitty2Component, selectors: [["app-kitty2"]], decls: 31, vars: 2, consts: [[1, "btn", "btn-success", 3, "routerLink"], [1, "container"], [1, "left"], ["src", "https://lh3.googleusercontent.com/pw/AM-JKLUqsVsNcBtzOzrOrS9sG6u4uEJGeSR3OXkjIHCQFDFPQeGUFQNtlHhkeGnbRxRhk4f-cJc4LxKVKG6unDs7o531wrRColEJTt_n8_qP4sBW6pNQQaTTGCLA3QNZKQTt8x80R1xrYTylxK_3HKJpHCAO=w1770-h1772-no?authuser=0", "alt", "Kitty1 NFT", 1, "nftImage"], [1, "right"], ["href", "https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963"], ["target", "_blank", "href", "https://lh3.googleusercontent.com/pw/AM-JKLUqsVsNcBtzOzrOrS9sG6u4uEJGeSR3OXkjIHCQFDFPQeGUFQNtlHhkeGnbRxRhk4f-cJc4LxKVKG6unDs7o531wrRColEJTt_n8_qP4sBW6pNQQaTTGCLA3QNZKQTt8x80R1xrYTylxK_3HKJpHCAO=w1770-h1772-no?authuser=0"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219825262350303233", 1, "btn", "btn-primary"]], template: function Kitty2Component_Template(rf, ctx) { if (rf & 1) {
+Kitty2Component.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Kitty2Component, selectors: [["app-kitty2"]], decls: 31, vars: 2, consts: [[1, "btn", "btn-success", 3, "routerLink"], [1, "container"], [1, "left"], ["src", "https://lh3.googleusercontent.com/BKKonPpX1q0FxvaYOOBS1-e8SLmdJOMv7KnGqWvbwqNAbmRO7O8vmlZ5OiA7kfwuVAbAMDw_Z_a2EFcfdblwxDJzAZx5AeJg13ND3_BVoEOEplPyHwZJfCp20vM1tCjtLNb2-eOmSw=w2400", "alt", "Kitty1 NFT", 1, "nftImage"], [1, "right"], ["href", "https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963"], ["target", "_blank", "href", "https://lh3.googleusercontent.com/BKKonPpX1q0FxvaYOOBS1-e8SLmdJOMv7KnGqWvbwqNAbmRO7O8vmlZ5OiA7kfwuVAbAMDw_Z_a2EFcfdblwxDJzAZx5AeJg13ND3_BVoEOEplPyHwZJfCp20vM1tCjtLNb2-eOmSw=w2400"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219825262350303233", 1, "btn", "btn-primary"]], template: function Kitty2Component_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "a", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Back");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1395,7 +1395,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty20Component {
     constructor() { }
     ngOnInit() {
@@ -1481,7 +1481,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty21Component {
     constructor() { }
     ngOnInit() {
@@ -1567,7 +1567,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty22Component {
     constructor() { }
     ngOnInit() {
@@ -1653,7 +1653,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty23Component {
     constructor() { }
     ngOnInit() {
@@ -1739,7 +1739,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty24Component {
     constructor() { }
     ngOnInit() {
@@ -1825,7 +1825,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty25Component {
     constructor() { }
     ngOnInit() {
@@ -1911,7 +1911,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty26Component {
     constructor() { }
     ngOnInit() {
@@ -1997,7 +1997,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty3Component {
     constructor() { }
     ngOnInit() {
@@ -2083,7 +2083,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty4Component {
     constructor() { }
     ngOnInit() {
@@ -2169,7 +2169,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty5Component {
     constructor() { }
     ngOnInit() {
@@ -2255,7 +2255,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty6Component {
     constructor() { }
     ngOnInit() {
@@ -2341,7 +2341,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty7Component {
     constructor() { }
     ngOnInit() {
@@ -2427,7 +2427,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty8Component {
     constructor() { }
     ngOnInit() {
@@ -2513,7 +2513,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const _c0 = function () { return ["/home"]; };
+const _c0 = function () { return ["/"]; };
 class Kitty9Component {
     constructor() { }
     ngOnInit() {
@@ -2631,7 +2631,7 @@ class TotalCollectionComponent {
     }
 }
 TotalCollectionComponent.ɵfac = function TotalCollectionComponent_Factory(t) { return new (t || TotalCollectionComponent)(); };
-TotalCollectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TotalCollectionComponent, selectors: [["app-total-collection"]], decls: 539, vars: 104, consts: [[1, "desktopCollection"], [1, "row"], [1, "col-sm-2"], [1, "card"], ["src", "https://lh3.googleusercontent.com/6Euu4tcBCXwkm6qlvtMrGkL3Cfu4rR-3VnljMC4qD79DCnQlLfH1pjUCZ_7Z_YI-tCqol05g22zWn-PCIfdkmYkHvFOxfIpIMesie1wVdyd-n5ykq9n3LlD3FUI50Afn9Q7oFjWCqOJJT2hCdWHBItS2eNRCsWpMJQ0-iQef9w_PMJ1mA9hAdlZNigEOHoYSA7PW6MP-z9rbKrX6tXQXRlp1fwVBcEbd9KuGIBYIXy2d-UHIkofW1_yJdO0XCtBDVeHjg-l4tGOGe7Mxr_kYBhPvncgiXis-bZJSHFTYSiH5UwwkglZ19awpv7xBA2lYOY_Yg2OL3zyUfVNpmJwFII6vFzbkJxuA5xHuN-Q9fVPZ_0em4AX36XREKWMdh0ec3BNrL37uCz7K6leWuqpzDtCun4VzwCbuwmyIWtxs65fmvEhZMO2pFLCnlaqtR5BpE5O4PtLzjmAZbnSTTDGxJ4-xFXCb_fn1p7u9ZzW7HV3y7G97YXpeCqr2wKEVH82LPfKeJtMoxIGn7YCPW5NmqLgEWOISguXa8cZeDErDDirz_lj33Yw9D5bOw3UPLxfXAUpHCiCSNswCKtFulCHUb07--bxceOnWweWRH9skiZrS5KouBg6-YYauI5cJXJz1sZsX1E3-jbAO8IkKfVmdzOrbn62PYgK6mkSN3kM4x3voKvBBFIy3Yq5Y7loPOe-5WE44vtuacQlN05K7S4T4Y8K1=w1592-h1594-no?authuser=0", "alt", "Kitty1 NFT", 1, "card-img-top", 2, "width", "100%"], [1, "card-body"], [1, "card-title"], [1, "btn", "btn-success", 3, "routerLink"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219824162838675457", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/pw/AM-JKLUqsVsNcBtzOzrOrS9sG6u4uEJGeSR3OXkjIHCQFDFPQeGUFQNtlHhkeGnbRxRhk4f-cJc4LxKVKG6unDs7o531wrRColEJTt_n8_qP4sBW6pNQQaTTGCLA3QNZKQTt8x80R1xrYTylxK_3HKJpHCAO=w1770-h1772-no?authuser=0", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219825262350303233", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/McL0a7Igd77NgRxMFtdqgzRoZH97tKrQ7_YEkwiCRqlvA5QwHhhmrd98UkNHDaPuye00AuTeO1_ovt0HXvuanXjmBXUF28IgfR9aDkCId17O94eQLUfYGdAR1be7wEwnIkEu9Bbt3A=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219826361861931009", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/j0AkEQNwhN9iMiLpKZCPhyD3_jRDkswhRLYBDm1fiBKI9_3xYpNdQJxpQEEtjDsbwNDkY0wxj0BnYF_lMKOx5AjhmrwndaKbz_09x91W9UWXl6L2_zzklEBXVo-PVonFUFnpVoGqTg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219827461373558785", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/6xe_zomcrT5NtaaMcNp_km4_5hdB99r1ORRwfzOrnsvmaSEt1YZguwNqTw8A7L2kcd9kRywulcw36FmwKhXpEeRE1vh5-pUZYYYsnbMmzPBWr20-s44u_oKO-YjExXcRHRmHeSXmzg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219828560885186561", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/3-4cZWRMw8e4auSVqM1G-d5ohBws7RKsHYFJNY8kS0FmLDXIXjTpfSP41Qd9S7JPoJKFYz2lmHz5HIZ_1ItDdilaQF0VY6iop1zQcVpZ6RQQB5fNuKECmMCI5yUvln5-IhHs8Ak1kw=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219829660396814337", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/DOz6Vnw03B0HXsgQ2iMK_SoQDf8I52DVeBR6Phqypu-K4nr73ybnaY1KGpnVtk-Sd35y_MJkNvIr-TCOIo9a7mpp75kLjX4yKP2YOX9OJUUVFWf_tlZIga1SQsu63UmdcydVaq3LZQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219830759908442113", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/Y2iNs7Z2z7HRSBzqW_aC14jM6usK5pr-ku95FtsRkO9CVtz23lpvL0U_kgWdiz6kxpcSH6DgAFVpfOXVLmKhy4PqLgVTRDAIzP3sA5sDrc-0uGn2H6Z5rfMq0khsc-Rl7gLlxun5iQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219831859420069889", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/fBHB27P993aCO0Ou-AHZuY9QKyJ0G0w6HILdjvKwD-RDBdIIaZCLm0FvfioQ5mo9WrDF-0D_jPAZNQ56I0ZSEXIMSY1CyPv7EOhajahZ91X-DcsuhExeocsaYfwp2SfXe2agbUDHww=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219832958931697665", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/VzzwueCkjCwxdSMG5eaR579MzT40nWZ_yAIpsrlo58HaV23-C9bJh-NV5_esngtai3uUB9DGKPLi0t-LIJA4QZJzrr-2y0iYKB1c1NRcA3QTNZ7ENEYIbahOLUyYcffZjpMvPQ80nA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219834058443325441", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/TsT7IWS255CeXV0-JLVpyRN4f6O1GtuBxxgZ_rArkdZ6tIMJMK4lX0JwCZZrfJ16IgvBQlixE_DFtlNQeA9RDMjqma5qCzyF8ezuo7utk96amqdm0X9S7j7YcbjXpgAAtkaQdJ7LcA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219835157954953217", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/N1HvyMZLbrFPC3MLLzLD5Xwaw9ozuZrhb6XyAuCK6UiolKyBltjGMjdOLzYtPKZDShKVEzZpIIhWdhVhXZMedEvV3-z5YtMsgQtRT9sVCG_EbEbtB-FFRLp-m1u4GJW92joBoIfUcA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219836257466580993", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/dowd0px8G3o2ltjHRzwIWXOpc9HuKjmG9ab0mTjGFWICgJ_xZEGaspWmMrm4RM6fsdvQy4Tzn0a4LHu4S0fwEEehtQtJ1urKZln-cjrfA-2bGC15RP_PN02gDf_C7kAv28y9ypVWtQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219837356978208769", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/9y7D3rfXgMNkld6fjN4e3OQwRXy7zQ5wuP94LEGNkoLeTEf-G6lDWihVNJ7M3wExx3rCSZ1X1tkMOdGMfATW-ZYEMK4o9H9ncbJf44TDcInmlmUf3yVBKmgOCbCVwCvLm8XF-85oXA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219838456489836545", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/oVna6Hn9WxWMBiU0oKe89W253EdgucVN_vkC997xM-Uegpc1XisMFiXV-5aIm7ZO9qNRh-RLZdaLDhrchuf6YES2ljzG9oTMs5UgLqvEY4d3Y5OV-btNQQgQWo5zaYBlQKK4BB9sYQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219839556001464321", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/2pVz6xkRODdOx08Tc0vyw3OQE14Td5GRjzzpTuB81XudUIWG1UXwtvHhDfWVMQX3pUm6A_4JgFOumM5uHGf7hbxYo9tfigArpuZXroYSwavB4XYKJv5S_yx2EQb0Q0sTZ19BTDGvvg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219840655513092097", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/vJrw3-sXuALWqjCFG9WRKhp7DbQhidRFxbSpZXdIBpTgOwkn9NorCyLKA8hWgEpSbWozhuZIuOxbjvlWaKDVWfgVhOo1-8_6Zvl2H35vjMDJbE3zgIYMTeG9ffAHdECcNOslouuRhQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219841755024719873", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/zI9tCVyqZ3K9ht8wDqISF23fLqGADmG_vabEhlLPAB92vuH3OlA1zKwO87VOAkL3dW4OBeMRSkKSnjn_-kX5-Vl1kqlaCNoZIRkShFVzpAH5cXvk4gXYys7Y6sxOBABpbJIpuw_ktA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219842854536347649", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/WGT8e7MdChlTmute99dLfhhtfSc5almDce0CM8KaeSde07qD8W-h5wJOtl3nnI2O8J7uKOUZXjSnO9reLgND5zFzhNRMpTcQbMrPCFwxr937-1vxx7Aqyrr2y2A_j_sdp9BMkI5MeQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219843954047975425", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/iqws-tVQmKPT4-tnnK9jCSUOYrP4rRCBG7H-zJbvgUI9tAIajgW1KvjaBsXDe4N-X8ozgHpYSwYUL53Zk-fwnCsn2JSM5016nut0faCPUswIdAZuc9LhTd_tjOiQOg7hcaaa0MBm7Q=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219845053559603201", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/g4Oduz2I5JviCcULsFAWnwOot3d-hg4yhQ5wdVSm6UaQNrHzkET18MocJNnfzeGZypGFOvkQs6Y4Ifgz9a43IG3FIAt4ax3YSO8W4s0XueXCVJ_oWzPm_opG14AsETwv-BeteelhdQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219846153071230977", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/t_a1uV-FcwIyqYVJka7RdCENkpHXvV0N888hON8TzE7HHIuqbpU2kiJEadEtGsj3p3wkc6oYvW3rZnzcxblChrNXO8Mc_hO9Uc5jlLtfj6h14mAGVvuW5UkeBNOPGRvvFZkJMI5YAw=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219847252582858753", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/yPRRPUtWqJactOE1pavNtfDsh0Q-aeVfi1723Pv17XqvEWVY-TUk3FmUJKrHWwWHjEHYSZi-PkeVdJkKekVVPj_OKgPmYF_fFSI8UmxaUapMd1P7cdchuJv67ZQUFjlbYxjCR-gapQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219848352094486529", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/CloSNnjLPs2j3aEgk9IZUcGbxnLb33Bm0LCnXjirIe4GBtp_lTMzwArMQWYlPJ1rkTztpUbWJs7jRqdL-QUbHVxIJNPLh3WdphwybnVmm117VjiMBU-dTfmPRoDZoEeTVTYYsmbzkg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219849451606114305", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/J3XAHK-SfZ-vfLHEb3jhY4tjBEaPttbT39mixSIt2OWKXo09c8o5zn3GGXbYOJx0F8ojMp_wVwav4DvGAOI5UNLqhqVsXFx6u2d_2LQaP5G8lAX5SZBUKYgwXSS7jMvFJR_OjDO6iA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219850551117742081", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/gRWasApciLN_b5rzGuoG4cEGBRCWTPM0zlJ3PjA-c9fdGNTmV2hPzYiQEv1QTJxx5ZjmOhJPXczLxyklu2LOJTOAsn7rEnW_M0pTOpC7sMI8jCtEE7xX1tqVbYL1oBU2dTyAMimqeA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219851650629369857", 1, "btn", "btn-primary"], [1, "mobileCollection"], [1, "col-xs-6"], ["src", "https://lh3.googleusercontent.com/2Henk2N4t-6VI3so2I7AfiEnW_YmeJ0O4vIG6joHIaqY6CECPLUKyNheXgSzt2aYlTAbKPhfotninyg_FAbmSGXsblBiKFdzG3f15470vbvLqYZPXvzdEX2mOuSINA0_wvDr_l1EJQ=w2400", "alt", "Kitty1 NFT", 1, "card-img-top", 2, "width", "100%"]], template: function TotalCollectionComponent_Template(rf, ctx) { if (rf & 1) {
+TotalCollectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TotalCollectionComponent, selectors: [["app-total-collection"]], decls: 539, vars: 104, consts: [[1, "desktopCollection"], [1, "row"], [1, "col-sm-2"], [1, "card"], ["src", "https://lh3.googleusercontent.com/9ShmIQZHmlG3DdMNHV8OdHkVNxp9TdGWlXtVHMTyz5lon90QB3MSHhKKQA8HsOyEwSiR6vJu4qNNuYvxaK1mU2ey5gLY95qBOXMgtq08rgn9jB7CffOIpgcSCSMGx0K0lH3J6eYV1g=w2400", "alt", "Kitty1 NFT", 1, "card-img-top", 2, "width", "100%"], [1, "card-body"], [1, "card-title"], [1, "btn", "btn-success", 3, "routerLink"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219824162838675457", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/BKKonPpX1q0FxvaYOOBS1-e8SLmdJOMv7KnGqWvbwqNAbmRO7O8vmlZ5OiA7kfwuVAbAMDw_Z_a2EFcfdblwxDJzAZx5AeJg13ND3_BVoEOEplPyHwZJfCp20vM1tCjtLNb2-eOmSw=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219825262350303233", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/McL0a7Igd77NgRxMFtdqgzRoZH97tKrQ7_YEkwiCRqlvA5QwHhhmrd98UkNHDaPuye00AuTeO1_ovt0HXvuanXjmBXUF28IgfR9aDkCId17O94eQLUfYGdAR1be7wEwnIkEu9Bbt3A=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219826361861931009", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/j0AkEQNwhN9iMiLpKZCPhyD3_jRDkswhRLYBDm1fiBKI9_3xYpNdQJxpQEEtjDsbwNDkY0wxj0BnYF_lMKOx5AjhmrwndaKbz_09x91W9UWXl6L2_zzklEBXVo-PVonFUFnpVoGqTg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219827461373558785", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/6xe_zomcrT5NtaaMcNp_km4_5hdB99r1ORRwfzOrnsvmaSEt1YZguwNqTw8A7L2kcd9kRywulcw36FmwKhXpEeRE1vh5-pUZYYYsnbMmzPBWr20-s44u_oKO-YjExXcRHRmHeSXmzg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219828560885186561", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/3-4cZWRMw8e4auSVqM1G-d5ohBws7RKsHYFJNY8kS0FmLDXIXjTpfSP41Qd9S7JPoJKFYz2lmHz5HIZ_1ItDdilaQF0VY6iop1zQcVpZ6RQQB5fNuKECmMCI5yUvln5-IhHs8Ak1kw=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219829660396814337", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/DOz6Vnw03B0HXsgQ2iMK_SoQDf8I52DVeBR6Phqypu-K4nr73ybnaY1KGpnVtk-Sd35y_MJkNvIr-TCOIo9a7mpp75kLjX4yKP2YOX9OJUUVFWf_tlZIga1SQsu63UmdcydVaq3LZQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219830759908442113", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/Y2iNs7Z2z7HRSBzqW_aC14jM6usK5pr-ku95FtsRkO9CVtz23lpvL0U_kgWdiz6kxpcSH6DgAFVpfOXVLmKhy4PqLgVTRDAIzP3sA5sDrc-0uGn2H6Z5rfMq0khsc-Rl7gLlxun5iQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219831859420069889", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/fBHB27P993aCO0Ou-AHZuY9QKyJ0G0w6HILdjvKwD-RDBdIIaZCLm0FvfioQ5mo9WrDF-0D_jPAZNQ56I0ZSEXIMSY1CyPv7EOhajahZ91X-DcsuhExeocsaYfwp2SfXe2agbUDHww=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219832958931697665", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/VzzwueCkjCwxdSMG5eaR579MzT40nWZ_yAIpsrlo58HaV23-C9bJh-NV5_esngtai3uUB9DGKPLi0t-LIJA4QZJzrr-2y0iYKB1c1NRcA3QTNZ7ENEYIbahOLUyYcffZjpMvPQ80nA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219834058443325441", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/TsT7IWS255CeXV0-JLVpyRN4f6O1GtuBxxgZ_rArkdZ6tIMJMK4lX0JwCZZrfJ16IgvBQlixE_DFtlNQeA9RDMjqma5qCzyF8ezuo7utk96amqdm0X9S7j7YcbjXpgAAtkaQdJ7LcA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219835157954953217", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/N1HvyMZLbrFPC3MLLzLD5Xwaw9ozuZrhb6XyAuCK6UiolKyBltjGMjdOLzYtPKZDShKVEzZpIIhWdhVhXZMedEvV3-z5YtMsgQtRT9sVCG_EbEbtB-FFRLp-m1u4GJW92joBoIfUcA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219836257466580993", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/dowd0px8G3o2ltjHRzwIWXOpc9HuKjmG9ab0mTjGFWICgJ_xZEGaspWmMrm4RM6fsdvQy4Tzn0a4LHu4S0fwEEehtQtJ1urKZln-cjrfA-2bGC15RP_PN02gDf_C7kAv28y9ypVWtQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219837356978208769", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/9y7D3rfXgMNkld6fjN4e3OQwRXy7zQ5wuP94LEGNkoLeTEf-G6lDWihVNJ7M3wExx3rCSZ1X1tkMOdGMfATW-ZYEMK4o9H9ncbJf44TDcInmlmUf3yVBKmgOCbCVwCvLm8XF-85oXA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219838456489836545", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/oVna6Hn9WxWMBiU0oKe89W253EdgucVN_vkC997xM-Uegpc1XisMFiXV-5aIm7ZO9qNRh-RLZdaLDhrchuf6YES2ljzG9oTMs5UgLqvEY4d3Y5OV-btNQQgQWo5zaYBlQKK4BB9sYQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219839556001464321", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/2pVz6xkRODdOx08Tc0vyw3OQE14Td5GRjzzpTuB81XudUIWG1UXwtvHhDfWVMQX3pUm6A_4JgFOumM5uHGf7hbxYo9tfigArpuZXroYSwavB4XYKJv5S_yx2EQb0Q0sTZ19BTDGvvg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219840655513092097", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/vJrw3-sXuALWqjCFG9WRKhp7DbQhidRFxbSpZXdIBpTgOwkn9NorCyLKA8hWgEpSbWozhuZIuOxbjvlWaKDVWfgVhOo1-8_6Zvl2H35vjMDJbE3zgIYMTeG9ffAHdECcNOslouuRhQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219841755024719873", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/zI9tCVyqZ3K9ht8wDqISF23fLqGADmG_vabEhlLPAB92vuH3OlA1zKwO87VOAkL3dW4OBeMRSkKSnjn_-kX5-Vl1kqlaCNoZIRkShFVzpAH5cXvk4gXYys7Y6sxOBABpbJIpuw_ktA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219842854536347649", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/WGT8e7MdChlTmute99dLfhhtfSc5almDce0CM8KaeSde07qD8W-h5wJOtl3nnI2O8J7uKOUZXjSnO9reLgND5zFzhNRMpTcQbMrPCFwxr937-1vxx7Aqyrr2y2A_j_sdp9BMkI5MeQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219843954047975425", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/iqws-tVQmKPT4-tnnK9jCSUOYrP4rRCBG7H-zJbvgUI9tAIajgW1KvjaBsXDe4N-X8ozgHpYSwYUL53Zk-fwnCsn2JSM5016nut0faCPUswIdAZuc9LhTd_tjOiQOg7hcaaa0MBm7Q=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219845053559603201", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/g4Oduz2I5JviCcULsFAWnwOot3d-hg4yhQ5wdVSm6UaQNrHzkET18MocJNnfzeGZypGFOvkQs6Y4Ifgz9a43IG3FIAt4ax3YSO8W4s0XueXCVJ_oWzPm_opG14AsETwv-BeteelhdQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219846153071230977", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/t_a1uV-FcwIyqYVJka7RdCENkpHXvV0N888hON8TzE7HHIuqbpU2kiJEadEtGsj3p3wkc6oYvW3rZnzcxblChrNXO8Mc_hO9Uc5jlLtfj6h14mAGVvuW5UkeBNOPGRvvFZkJMI5YAw=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219847252582858753", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/yPRRPUtWqJactOE1pavNtfDsh0Q-aeVfi1723Pv17XqvEWVY-TUk3FmUJKrHWwWHjEHYSZi-PkeVdJkKekVVPj_OKgPmYF_fFSI8UmxaUapMd1P7cdchuJv67ZQUFjlbYxjCR-gapQ=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219848352094486529", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/CloSNnjLPs2j3aEgk9IZUcGbxnLb33Bm0LCnXjirIe4GBtp_lTMzwArMQWYlPJ1rkTztpUbWJs7jRqdL-QUbHVxIJNPLh3WdphwybnVmm117VjiMBU-dTfmPRoDZoEeTVTYYsmbzkg=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219849451606114305", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/J3XAHK-SfZ-vfLHEb3jhY4tjBEaPttbT39mixSIt2OWKXo09c8o5zn3GGXbYOJx0F8ojMp_wVwav4DvGAOI5UNLqhqVsXFx6u2d_2LQaP5G8lAX5SZBUKYgwXSS7jMvFJR_OjDO6iA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219850551117742081", 1, "btn", "btn-primary"], ["src", "https://lh3.googleusercontent.com/gRWasApciLN_b5rzGuoG4cEGBRCWTPM0zlJ3PjA-c9fdGNTmV2hPzYiQEv1QTJxx5ZjmOhJPXczLxyklu2LOJTOAsn7rEnW_M0pTOpC7sMI8jCtEE7xX1tqVbYL1oBU2dTyAMimqeA=w2400", "alt", "Card image cap", 1, "card-img-top", 2, "width", "100%"], ["target", "_blank", "href", "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80366395629522486436785199915095687810879187654138836265477219851650629369857", 1, "btn", "btn-primary"], [1, "mobileCollection"], [1, "col-xs-6"]], template: function TotalCollectionComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -3062,7 +3062,7 @@ TotalCollectionComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵ�
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](266, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](267, "div", 60);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](268, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](269, "img", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](269, "img", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](270, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](271, "h5", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](272, "KittyClub #Buco");
